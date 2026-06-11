@@ -33,8 +33,18 @@
 </p>
 
 #### 📨 ChatSilo
-*Facebook Messenger CRM platform used by businesses to organize conversations, automate follow-ups, and improve lead conversion.*
-<!-- Replace with an actual screenshot or GIF of ChatSilo -->
+Role: Senior Full Stack Developer
+
+Built:
+- CRM workflows
+- Messenger automation
+- Bulk messaging system
+- Calendar integrations
+- Contact management modules
+
+Tech:
+Laravel, React, MySQL
+
 <p align="center">
   <img src="/chatsilo.webp" alt="ChatSilo App">
 </p>
