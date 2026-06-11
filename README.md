@@ -22,21 +22,21 @@
 *Cloud telephony and customer communication platform helping businesses manage calls, leads, and customer interactions efficiently.*
 <!-- Replace with an actual screenshot or GIF of GetCallers -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/1e1e1e/ffffff?text=GetCallers+Screenshot/GIF+Here" alt="GetCallers Dashboard">
+  <img src="/getcallers.png" alt="GetCallers Dashboard">
 </p>
 
 #### 💬 WAMessages
 *WhatsApp automation platform enabling businesses to automate messaging, marketing campaigns, and customer engagement workflows.*
 <!-- Replace with an actual screenshot or GIF of WAMessages -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/1e1e1e/ffffff?text=WAMessages+Screenshot/GIF+Here" alt="WAMessages Interface">
+  <img src="/WAMessages-2.svg" alt="WAMessages Interface">
 </p>
 
 #### 📨 ChatSilo
 *Facebook Messenger CRM platform used by businesses to organize conversations, automate follow-ups, and improve lead conversion.*
 <!-- Replace with an actual screenshot or GIF of ChatSilo -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/1e1e1e/ffffff?text=ChatSilo+Screenshot/GIF+Here" alt="ChatSilo App">
+  <img src="/chatsilo.webp" alt="ChatSilo App">
 </p>
 
 #### 🏥 AMCA Exams
