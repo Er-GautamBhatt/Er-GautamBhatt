@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="Gautam Bhatt Banner">
+  <img src="/banner.png" alt="Gautam Bhatt Banner">
 </p>
 
 <h1 align="center">Hi, I'm Gautam Bhatt 👋</h1>
